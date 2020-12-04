@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tienda-helados/static/css/main.dacb4255.chunk.css",
+    "main.js": "/tienda-helados/static/js/main.30a7b65c.chunk.js",
+    "main.js.map": "/tienda-helados/static/js/main.30a7b65c.chunk.js.map",
+    "runtime-main.js": "/tienda-helados/static/js/runtime-main.cce39d69.js",
+    "runtime-main.js.map": "/tienda-helados/static/js/runtime-main.cce39d69.js.map",
+    "static/js/2.6f80ebea.chunk.js": "/tienda-helados/static/js/2.6f80ebea.chunk.js",
+    "static/js/2.6f80ebea.chunk.js.map": "/tienda-helados/static/js/2.6f80ebea.chunk.js.map",
+    "static/js/3.76355558.chunk.js": "/tienda-helados/static/js/3.76355558.chunk.js",
+    "static/js/3.76355558.chunk.js.map": "/tienda-helados/static/js/3.76355558.chunk.js.map",
+    "index.html": "/tienda-helados/index.html",
+    "static/css/main.dacb4255.chunk.css.map": "/tienda-helados/static/css/main.dacb4255.chunk.css.map",
+    "static/js/2.6f80ebea.chunk.js.LICENSE.txt": "/tienda-helados/static/js/2.6f80ebea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cce39d69.js",
+    "static/js/2.6f80ebea.chunk.js",
+    "static/css/main.dacb4255.chunk.css",
+    "static/js/main.30a7b65c.chunk.js"
+  ]
+}
